@@ -14,5 +14,14 @@
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.7.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarsh85/ses-mail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Utkarsh85/ses-mail/issues"
+  },
+  "homepage": "https://github.com/Utkarsh85/ses-mail#readme"
 }
